@@ -1,4 +1,0 @@
-first line in my file
-second line
-third line
-third line
