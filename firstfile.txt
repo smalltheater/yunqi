@@ -1,3 +1,9 @@
 first line in my file
 second line
+<<<<<<< HEAD
 third line
+=======
+wow sth in firstfile had to be modified
+>>>>>>> longterm
+
+i dont konw
